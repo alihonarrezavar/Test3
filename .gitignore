@@ -1,5 +1,6 @@
 # Default ignored files
 .idea/
 *.class
+*.iml
 Main.java
 Test2.java
