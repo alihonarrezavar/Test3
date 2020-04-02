@@ -1,7 +1,6 @@
 # Default ignored files
 /workspace.xml
-*.iml
-*.xml
+.idea/
 *.class
 Main.java
 Test2.java
